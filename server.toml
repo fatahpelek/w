@@ -1,0 +1,10 @@
+[server]
+bind_addr = "0.0.0.0:2333"
+
+[server.services.rdp_pc1]
+token = "sigma"
+bind_addr = "0.0.0.0:33891"
+
+[server.services.rdp_pc2]
+token = "sigmaa"
+bind_addr = "0.0.0.0:33892"

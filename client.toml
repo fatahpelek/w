@@ -1,0 +1,9 @@
+[client]
+
+remote_addr = "178.128.122.247:2333"  # IP VPS
+
+[client.services.rdp_pc2]
+
+token = "sigmaa"  # HARUS SAMA dengan di server
+
+local_addr = "127.0.0.1:3389"  # RDP lokal PC 1
