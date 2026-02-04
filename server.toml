@@ -6,5 +6,21 @@ token = "sigma"
 bind_addr = "0.0.0.0:33891"
 
 [server.services.rdp_pc2]
-token = "sigmaa"
+token = "sigma"
 bind_addr = "0.0.0.0:33892"
+
+[server.services.rdp_pc3]
+token = "sigma"
+bind_addr = "0.0.0.0:33893"
+
+[server.services.rdp_pc4]
+token = "sigma"
+bind_addr = "0.0.0.0:33894"
+
+[server.services.rdp_pc5]
+token = "sigma"
+bind_addr = "0.0.0.0:33895"
+
+[server.services.rdp_pc6]
+token = "sigma"
+bind_addr = "0.0.0.0:33896"
