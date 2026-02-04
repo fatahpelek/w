@@ -1,9 +1,10 @@
 [client]
 
-remote_addr = "178.128.122.247:2333"  # IP VPS
+remote_addr = "202.155.95.145:2333"  # IP VPS
 
-[client.services.rdp_pc2]
+[client.services.rdp_pc1]
 
-token = "sigmaa"  # HARUS SAMA dengan di server
+token = "sigma"  # HARUS SAMA dengan di server
+
 
 local_addr = "127.0.0.1:3389"  # RDP lokal PC 1
