@@ -24,3 +24,7 @@ bind_addr = "0.0.0.0:33895"
 [server.services.rdp_pc6]
 token = "sigma"
 bind_addr = "0.0.0.0:33896"
+
+[server.services.minecraft_pc1]
+token = "sigma"
+bind_addr = "0.0.0.0:25565"
