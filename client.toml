@@ -1,6 +1,6 @@
 [client]
 
-remote_addr = "202.155.95.145:2333"  # IP VPS
+remote_addr = "157.15.124.66:2333"  # IP VPS
 
 [client.services.rdp_pc1]
 
